@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\bin\Debug\netcoreapp2.2\TestMindBox_ClassLib.deps.json
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\bin\Debug\netcoreapp2.2\TestMindBox_ClassLib.dll
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\bin\Debug\netcoreapp2.2\TestMindBox_ClassLib.pdb
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\obj\Debug\netcoreapp2.2\TestMindBox_ClassLib.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\obj\Debug\netcoreapp2.2\TestMindBox_ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\obj\Debug\netcoreapp2.2\TestMindBox_ClassLib.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\obj\Debug\netcoreapp2.2\TestMindBox_ClassLib.AssemblyInfo.cs
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\obj\Debug\netcoreapp2.2\TestMindBox_ClassLib.dll
+C:\Users\Админ\source\repos\TestMindBox\TestMindBox_ClassLib\obj\Debug\netcoreapp2.2\TestMindBox_ClassLib.pdb

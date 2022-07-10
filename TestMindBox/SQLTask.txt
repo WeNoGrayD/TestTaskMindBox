@@ -1,0 +1,4 @@
+SELECT Products.Name AS ProductName, Categories.Name AS CategoryName
+FROM Products 
+LEFT OUTER JOIN Catalog ON Products.ID = Catalog.ProductID
+LEFT OUTER JOIN Categories ON Catalog.CategoryID = Categories.ID
